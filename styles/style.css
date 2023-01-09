@@ -116,6 +116,14 @@ main p {
     text-align: justify;
 }
 
+main li {
+    margin: 15px 0px;
+    text-indent: 30px;
+    line-height: 2em;
+    text-align: justify;
+}
+
+
 div.video{
     background-color: var(--cor3);
     margin: 0px -20px 30px -20px;
